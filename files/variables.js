@@ -10,6 +10,7 @@ age = 21; // integer (whole numbers)
 // let age = 21; can be used together
 age += 1; // NOTE: if we add 1 to age as a STRING, we are adding an extra 1
           // and concatenating it
+          
 console.log("You are", age, "years old"); 
 
 let firstName = "Isaac"; // string
